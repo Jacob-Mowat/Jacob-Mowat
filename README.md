@@ -9,5 +9,6 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Jacob-Mowat&theme=darcula&hide_border=true&background=FFFFFF00">
   <br />
   <br />
-  ![](https://komarev.com/ghpvc/?username=Jacob-Mowat&style=flat-square)
 </p>
+
+![](https://komarev.com/ghpvc/?username=Jacob-Mowat&style=flat-square)
